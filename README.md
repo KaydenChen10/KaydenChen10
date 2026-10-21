@@ -16,7 +16,7 @@
 
 ### 🧭 About Me
 
-- 🎓 Sophomore at **Bell Honors School, NJUPT** (**Communication Engineering**), expecting B.Eng. in 2028; preparing for graduate study in **intelligent signal processing**.
+- 🎓 Junior at **Bell Honors School, NJUPT** (**Communication Engineering**), expecting B.Eng. in 2028; preparing for graduate study in **intelligent signal processing**.
 - 🔬 I work at the intersection of **computational photonics and machine learning**: forward sensitivity mapping and end-to-end inverse modeling of **nonlinear Thomson scattering (NTS)** radiation.
 - 📡 Recently exploring **wireless AI**: RF fingerprinting (RFF) and automatic modulation classification (AMC) under **domain generalization** — reproducing and studying recent cross-receiver / cross-scenario work (IEEE CL / WCL / TIFS 2026).
 - 🧠 Interests: **AI4Science**, physics-informed ML, small-sample learning, attention mechanisms, differentiable forward/inverse modeling, and information-theoretic representation learning.
