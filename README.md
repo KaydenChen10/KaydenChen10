@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yinjun Chen (陈殷骏) 👋
+# Hi, I'm Kayden Chen 👋
 
 **Undergraduate @ Bell Honors School, Nanjing University of Posts and Telecommunications (2024–)**
 
