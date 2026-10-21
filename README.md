@@ -25,8 +25,8 @@
 
 #### ⚛️ Physics-Informed ML & Computational Photonics
 
-1. **Y. Chen**, M. Wang, Z. Wu, Y. Zhao, Y. Tian, A. Zhang, *"Spatial Weight–Position Mapping decodes ellipticity-driven symmetry breaking in nonlinear Thomson forward scattering,"* **Optics and Laser Technology**, 2026 (accepted, JOLT 116750).
-2. **Y. Chen**, *"Temporal Weight-Position Mapping: time-resolved parameter dominance of electron dynamics in nonlinear Thomson scattering,"* **Optics Express**, 2026 (accepted, Manuscript ID 613635).
+1. **Y. Chen**, M. Wang, Z. Wu, Y. Zhao, Y. Tian, A. Zhang, *"Spatial Weight–Position Mapping decodes ellipticity-driven symmetry breaking in nonlinear Thomson forward scattering,"* **Optics and Laser Technology**, 2026 (accepted, JOLT 116750). `JCR Q1` `IF 5.2` `中科院2区 Top`
+2. **Y. Chen**, *"Temporal Weight-Position Mapping: time-resolved parameter dominance of electron dynamics in nonlinear Thomson scattering,"* **Optics Express**, 2026 (accepted, Manuscript ID 613635). `JCR Q2` `IF 3.4` `中科院2区`
 3. **Y. Chen** *et al.*, *"Dual-Path Cross-Attention for End-to-End Inverse Modeling of Nonlinear Thomson-Scattering Radiation,"* in preparation — see [nts-inverse-attention](https://github.com/KaydenChen10/nts-inverse-attention).
 
 #### 📡 Wireless AI & Intelligent Signal Processing
