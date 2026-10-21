@@ -23,13 +23,19 @@
 
 ### 📄 Publications
 
+#### ⚛️ Physics-Informed ML & Computational Photonics
+
 1. **Y. Chen**, M. Wang, Z. Wu, Y. Zhao, Y. Tian, A. Zhang, *"Spatial Weight–Position Mapping decodes ellipticity-driven symmetry breaking in nonlinear Thomson forward scattering,"* **Optics and Laser Technology**, 2026 (accepted, JOLT 116750).
 2. **Y. Chen**, *"Temporal Weight-Position Mapping: time-resolved parameter dominance of electron dynamics in nonlinear Thomson scattering,"* **Optics Express**, 2026 (accepted, Manuscript ID 613635).
-3. **Y. Chen** *et al.*, *"Spatiotemporal Attention for End-to-End Inverse Modeling of Nonlinear Thomson-Scattering Radiation,"* in preparation — see the repo below.
+3. **Y. Chen** *et al.*, *"Dual-Path Cross-Attention for End-to-End Inverse Modeling of Nonlinear Thomson-Scattering Radiation,"* in preparation — see [nts-inverse-attention](https://github.com/KaydenChen10/nts-inverse-attention).
+
+#### 📡 Wireless AI & Intelligent Signal Processing
+
+- *Work in progress — cross-scenario AMC / RFF under domain generalization; first results expected 2027.*
 
 ### 🚀 Featured Projects
 
-**[nts-inverse-attention](https://github.com/KaydenChen10/nts-inverse-attention)** — Dual-path multi-head attention pooling for end-to-end inversion of NTS radiation parameters (B₀, b₀, L) from far-field observables. Median out-of-fold R² up to **0.982 / 0.894 / 0.992** on 324 wide-box simulations, with strict repeated cross-validation, ablation chain, failure analysis, and closed-loop forward verification.
+**[nts-inverse-attention](https://github.com/KaydenChen10/nts-inverse-attention)** — Dual-path cross-attention (DPC-Att) readout for end-to-end inversion of NTS radiation parameters (B₀, b₀, L) from far-field observables. Median out-of-fold R² up to **0.982 / 0.894 / 0.992** on 324 wide-box simulations, with strict repeated cross-validation, ablation chain, failure analysis, and closed-loop forward verification.
 
 **[HermNet-AMC-reproduction](https://github.com/KaydenChen10/HermNet-AMC-reproduction)** — CPU-only reproduction of *HermNet* (IEEE WCL 2026), a 14K-parameter Hermitian-covariance network for cross-scenario modulation classification. Reached **75.35%** on the hardest unseen scenario (paper: 81.02%), with CPU adaptation, epoch-level checkpoint/resume, and a synthetic smoke-test dataset generator.
 
